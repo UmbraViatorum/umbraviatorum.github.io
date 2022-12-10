@@ -21,27 +21,12 @@
 title: Aeon Techonocracy
 email: p21650608@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Echonautica Design and Art is a cutting-edge design and art studio that specializes 
-  in creating unique and thoughtful designs. From website and mobile app designs to 
-  large-scale digital art installations, their team of talented artists and designers 
-  strive to create works of art that inspire, challenge, and engage audiences. With an 
-  emphasis on sustainability and social responsibility, Echonautica Design and Art 
-  creates artwork that reflects both their sense of style and a commitment to creating 
-  meaningful and lasting experiences. Echonautica Design is an innovator in the world 
-  of Artificial Intelligence (AI). They specialize in developing AI-based systems and 
-  applications that enable businesses to better understand and interact with their 
-  customers. Their comprehensive understanding of machine learning and neural networks 
-  makes their AI solutions the perfect fit for any business that wants to take 
-  advantage of cutting-edge technology with reliable, secure, and efficient, giving 
-  you the confidence to focus on other aspects of your business. They are committed to 
-  creating unique experiences that bring people together through
-art and design. 
-baseurl: "" # the subpath of your site, e.g. /blog url: "" # the base 
-hostname & protocol for your site, e.g. http://example.com twitter_username: jekyllrb 
-github_username: jekyll
+baseurl: "/index" url: https://www.echonautica.com 
+discord_username: "Gre'Vos#1337" 
+github_username: UmbraViatorum
 
 # Build settings
-theme: probot
+theme: minima
 plugins:
   - jekyll-feed
 
